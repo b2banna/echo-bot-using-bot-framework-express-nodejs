@@ -9,7 +9,7 @@
   },
   "author": "Krishan Kripal",
   "license": "ISC",
-  "repository": "field",
+  "repository": "https://github.com/b2banna/echo-bot-using-bot-framework-express-nodejs",
   "dependencies": {
     "botbuilder": "^4.9.3",
     "cors": "^2.8.5",
