@@ -1,0 +1,23 @@
+{
+  "name": "echo-bot",
+  "version": "1.0.0",
+  "description": "Echo Bot using Bot-Framework, Express and Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "watch": "nodemon index"
+  },
+  "author": "Krishan Kripal",
+  "license": "ISC",
+  "repository": "field",
+  "dependencies": {
+    "botbuilder": "^4.9.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
